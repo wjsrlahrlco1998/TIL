@@ -15,3 +15,6 @@
     - [데이터 분석 및 SQL,CSV 활용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day08.md)
     - [웹 컨트롤러를 이용한 동적 크롤링-1](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day09.md)
     - [웹 컨트롤러를 이용한 동적 크롤링-2](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day10.md)
+  - 데이터 시각화
+    - [데이터와 Numpy](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11.md)
+    - [판다스(pandas) 모듈 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11_1.md)
