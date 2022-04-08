@@ -18,3 +18,5 @@
   - 데이터 시각화
     - [데이터와 Numpy](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11.md)
     - [판다스(pandas) 모듈 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11_1.md)
+    - [판다스를 이용한 데이터 수집 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day12.md)
+    - [판다스를 이용한 데이터그룹 처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day12_1.md)
