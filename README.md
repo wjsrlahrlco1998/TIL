@@ -34,6 +34,12 @@
   - 머신러닝
   
     - [Numpy를 이용한 행렬연산](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day16_1.md)
-    - [사이킷런을 이용한 머신러닝 기초](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day16_2.md)
+    - [사이킷런을 이용한 머신러닝 기초(지도학습)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day16_2.md)
   
+    - [사이킷런을 이용한 머신러닝 기초(비지도학습)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day17_1.md)
     
+    - [데이터의 전처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day17_2.md)
+    
+    - [머신러닝의 개요(예시)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day17_3.md)
+    
+      
