@@ -45,4 +45,8 @@
     
     - [선형회귀 모델 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day18_1.md)
     
+    - [선형회귀 모델 기초 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day19_1.md)
+    
+    - [로지스틱 회귀 모델](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day19_2.md)
+    
       
