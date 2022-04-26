@@ -44,3 +44,6 @@
     - [분류모델 성능 평가](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day20_1.md)
     - [NBC(나이브 베이지안 분류기)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day20_2.md)
     - [의사결정트리 기초 예시코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day20_3.md)
+    - [의사결정트리 이론 및 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day21_1.md)
+    - [의사결정트리 교차검증](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day21_2.md)
+    - [앙상블 - 교차검증 기초 코드 예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day21_3.md)
