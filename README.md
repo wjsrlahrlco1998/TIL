@@ -45,3 +45,6 @@
     - [앙상블 이론 및 여러 모델 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_1.md)
     - [군집화(비지도학습)의 이론 및 기초코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_2.md)
     - [군집의 특성을 이용한 이미지 분류](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_3.md)
+  - 딥러닝
+    - [딥러닝 이론 및 퍼셉트론 기초코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_1.md)
+    - [딥러닝 다중 신경망 구현 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_2.md)
