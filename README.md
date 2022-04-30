@@ -48,3 +48,7 @@
   - 딥러닝
     - [딥러닝 이론 및 퍼셉트론 기초코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_1.md)
     - [딥러닝 다중 신경망 구현 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_2.md)
+    - [딥러닝 모델의 성능향상 방법](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_1.md)
+    - [딥러닝 회귀문제 적용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_2.md)
+    - [딥러닝 모델의 저장과 불러오기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_3.md)
+    - [합성곱 신경망(CNN)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_4.md)
