@@ -52,3 +52,6 @@
     - [딥러닝 회귀문제 적용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_2.md)
     - [딥러닝 모델의 저장과 불러오기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_3.md)
     - [합성곱 신경망(CNN)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_4.md)
+    - [딥러닝 이미지 학습](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day25_1.md)
+    
+    - [딥러닝 순환신경망 - 텍스트 처리 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day25_2.md)
