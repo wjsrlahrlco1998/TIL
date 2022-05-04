@@ -176,14 +176,46 @@
 
 ### 6) 정규표현식
 
-| 기호 | 내용 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|    기호     |                             내용                             |
+| :---------: | :----------------------------------------------------------: |
+|      .      |    한 개의 임의의 문자를 나타낸다.(줄바꿈 문자 \n은 예외)    |
+|      ?      | 입력 이후 중간 문자의 유무에 상관없이 끝 문자가 나오면 인식된다. |
+|      *      |     연결된 문자의 중복 개수 상관없이 인식한다(0개 이상).     |
+|      +      |     연결된 문자의 중복 개수 상관없이 인식한다(1개이상).      |
+|      ^      |         기호이후 문자열로 시작되는 문자열 인식한다.          |
+|   {숫자}    | 기호 앞에 있는 단어의 개수가 기호 안의 숫자만큼 있을 때 인식한다. |
+| {숫자,숫자} | 기호 앞에 있는 단어의 개수가 기호 안의 숫자범위만큼 있을 때 인식한다. |
+|   {숫자,}   |               슬라이싱과 같은 원리로 인식한다.               |
+|     []      | 괄호 안에 있는 문자의 유무를 인식한다. [-]로 범위를 지정할 수 있다. ex) [A-Z] 대문자 A-Z 까지 |
+|     [^]     |           관호 안에 있는 문자가 없을 때 인식한다.            |
 
 정규표현식을 사용하면 문자열처리가 용의하다.
+
+[정규 표현식 문법]
+
+| 기호 |                             내용                             |
+| :--: | :----------------------------------------------------------: |
+|  \   |               역 슬래쉬 문자 자체를 의미한다.                |
+|  \d  |        모든 숫자를 의미한다. [0-9]와 의미가 동일하다.        |
+|  \D  | 숫자를 제외한 모든 문자를 의미한다. \[^0-9]와 의미가 동일하다. |
+|  \s  |       공백을 의미한다. [\t\n\r\f\v]와 의미가 동일하다.       |
+|  \S  | 공백을 제외한 문자를 의미한다.  \[^\t\n\r\f\v]와 의미가 동일하다. |
+|  \w  |  문자 또는 숫자를 의미한다. [a-zA-Z0-9]와 의미가 동일하다.   |
+|  \W  | 문자 또는 숫자가 아닌 문자를 의미한다. \[^a-zA-Z0-9]와 의미가 동일하다. |
+
+[정규 표현식 모듈 함수]
+
+| 메서드                           | 내용                                                         |
+| -------------------------------- | ------------------------------------------------------------ |
+| re.compile(조건)                 | 정규 표현식을 컴파일하는 함수                                |
+| re.search(문자열)                | 문자열 전체에 대해서 정규표현식과 매치되는지를 검색          |
+| re.match(문자열)                 | 문자열의 처음이 정규표현식과 매치되는지 검색                 |
+| re.split(조건, 문자열)           | 정규표현식을 기준으로 문자열을 분리하여 리스트로 리턴        |
+| re.findall(조건, 문자열)         | 문자열에서 정규 표현식과 매치되는 모든 경우의 문자열을 찾아서 리스트로 리턴한다. 매치가 안되면 빈 리스트를 리턴 |
+| re.finditer(조건, 문자열)        | 문자열에서 정규표현식과 매치되는 모든 경우의 문자열에 대한 이터레이터 객체를 리턴 |
+| re.sub(조건, 바꿀문자열, 문자열) | 문자열에서 정규 표현식과 일치하는 부분에 대해서 다른 문자열로 대체 |
+
+
 
 
 
@@ -206,3 +238,273 @@
 
 - 단어 집합의 크기를 벡터의 차원으로하고, 표현하고 싶은 단어의 인덱스는 1, 아니면 0을 부여하는 단어 벡터 표현 방식
 - 벡터를 저장하기 위해 필요한 공간이 계속 늘어난다는 단점이 존재한다. -> 과대적합이 발생할 확률이 매우 높아진다.
+
+
+
+
+
+---
+
+## 4. 비정형 텍스트 전처리 코드(영어 처리)
+
+### 사전 기반 정수 인코딩 방법
+
+---
+
+### * import
+
+```python
+from nltk.tokenize import sent_tokenize
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+```
+
+
+
+
+
+### 1) 데이터 수집
+
+```python
+text = "A barber is a person. a barber is good person. a barber is huge person. he Knew A Secret! The Secret He Kept is huge secret. Huge secret. His barber kept his word. a barber kept his word. His barber kept his secret. But keeping and keeping such a huge secret to himself was driving the barber crazy. the barber went up a huge mountain."
+```
+
+수집을 통해서 다음과 같은 데이터를 얻었다고 가정.
+
+
+
+### 2) 데이터 전처리 : 문장 토큰화
+
+```python
+data1 = sent_tokenize(text)
+```
+
+
+
+### 3) 데이터 전처리 : 단어 토큰화
+
+```python
+wordSet = {}
+pr_data = []
+stop_w = set(stopwords.words('english'))
+for 문장 in data1:
+    t_data = word_tokenize(문장)
+    l = []
+    for 단어 in t_data:
+        소문자화_된_단어 = 단어.lower() # 단어를 소문자로 바꿈
+        if 소문자화_된_단어 not in stop_w:
+            if len(소문자화_된_단어) > 2: #단어수 2이하 제거
+                l.append(소문자화_된_단어)
+                if 소문자화_된_단어 not in wordSet:
+                    wordSet[소문자화_된_단어] = 0
+                wordSet[소문자화_된_단어] += 1
+    pr_data.append(l) # 문장별로 처리된 단어를 저장
+```
+
+빈도수별 정렬
+
+```python
+정렬된_단어_모음 = sorted(wordSet.items(), key=lambda x:x[1], reverse=True) # 내림차순 정렬
+```
+
+빈도수가 높은 순으로 낮은 인덱스 부여
+
+```python
+단어_인덱스 = {}
+i = 0
+for (단어, 빈도수) in 정렬된_단어_모음:
+    if 빈도수 > 1: # 빈도수 1이하 제거
+        i += 1
+        단어_인덱스[단어] = i
+```
+
+단어 종류의 수를 제한
+
+```python
+# 단어 종류 수 제한
+n = 4
+삭제_결정된_data = [단어 for 단어, i in 단어_인덱스.items() if n < i]
+for i in 삭제_결정된_data:
+    del 단어_인덱스[i]
+```
+
+기타 단어를 표시할 단어 추가
+
+```python
+# 단어 추가
+단어_인덱스['OOV'] = len(단어_인덱스) + 1
+```
+
+
+
+### 4) 정규화
+
+```python
+# 정규화
+ec_data = []
+for i in pr_data:
+    ec_d = []
+    for 단어 in i:
+        try:
+            ec_d.append(단어_인덱스[단어])
+        except KeyError:
+            ec_d.append(단어_인덱스['OOV'])
+    ec_data.append(ec_d)
+```
+
+실행결과 : ![image-20220504220206233](text_preprocessing.assets/image-20220504220206233.png)
+
+---
+
+### NLTK 모듈을 이용한 정수인코딩
+
+---
+
+#### * import
+
+```python
+from nltk import FreqDist
+import numpy as np
+```
+
+
+
+### 1) 단어별 빈도수 측정
+
+```python
+단어_모음 = FreqDist(np.hstack(pr_data))
+```
+
+
+
+### 2) 단어 종류 수 제한
+
+```python
+단어_모음 = 단어_모음.most_common(4)
+```
+
+
+
+---
+
+### Keras 이용 Data 토큰화 및 정수 인코딩
+
+---
+
+#### * import
+
+```python
+from tensorflow.keras.preprocessing.text import Tokenizer
+```
+
+
+
+### 1) 토큰화 및 빈도수 측정
+
+```python
+ck_t = Tokenizer()
+ck_t.fit_on_texts(pr_data) # 특성을 기억하고 가지고 있게된다.
+ck_t.word_index
+ck_t.word_counts
+```
+
+ 
+
+### 2) 정수 인코딩
+
+```python
+ck_t.texts_to_sequences(pr_data)
+```
+
+![image-20220504220602614](text_preprocessing.assets/image-20220504220602614.png)
+
+
+
+### 3) 단어 종류 수 제한 및 기타 단어 포함
+
+```python
+n = 4
+end_ck = Tokenizer(num_words=n+2, oov_token='OOV') # OOV가 빈도수 높게 측정되어서 수정해주어야한다. -> 어떻게?
+end_ck.fit_on_texts(pr_data)
+end_ck.texts_to_sequences(pr_data)
+```
+
+![image-20220504220630858](text_preprocessing.assets/image-20220504220630858.png)
+
+---
+
+### Keras를 이용한 페딩
+
+---
+
+#### * import
+
+```python
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+```
+
+### 1) 패딩
+
+```python
+tk = Tokenizer()
+tk.fit_on_texts(pr_data)
+encoded = tk.texts_to_sequences(pr_data)
+# 패팅을 앞단부터할지 뒷단부터할지 결정, 어느부분의 데이터를 자를지 결정,최대길이결정
+end_data = pad_sequences(encoded, padding='post', truncating='post',maxlen=5)
+```
+
+![image-20220504220811483](text_preprocessing.assets/image-20220504220811483.png)
+
+### 1-1) 패딩할 숫자를 결정
+
+```python
+v = len(tk.word_index) + 1
+end_data = pad_sequences(encoded, padding='post', truncating='post', value=v) # 페딩할 숫자를 결정
+end_data
+```
+
+![image-20220504220833923](text_preprocessing.assets/image-20220504220833923.png)
+
+
+
+---
+
+### Tensorflow를 이용한 간단한 원-핫 인코딩
+
+---
+
+
+
+#### * import
+
+```python
+from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.preprocessing.text import Tokenizer
+```
+
+### 1) 데이터
+
+```python
+# 데이터 1 토큰화
+t = '오늘 수업은 빠르게 시간이 흐른다.'
+t_k = Tokenizer()
+t_k.fit_on_texts([t])
+t_k.index_word
+```
+
+![image-20220504221009788](text_preprocessing.assets/image-20220504221009788.png)
+
+```python
+# 데이터 2에서 데이터 1에서 토큰화된 인덱스 추출
+t2 = '오늘 수업은 빠르게 끝나고 마무리된다.'
+e = t_k.texts_to_sequences([t2])[0]
+```
+
+원-핫 인코딩
+
+```python
+end_d = to_categorical(e)
+```
+
+![image-20220504221115890](text_preprocessing.assets/image-20220504221115890.png)
+
