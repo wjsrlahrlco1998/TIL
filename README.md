@@ -12,6 +12,8 @@
     
   - [데이터 수집](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling)
     
+  - [Numpy와 Pandas](https://github.com/wjsrlahrlco1998/TIL/blob/master/Numpy_Pandas)
+    
   - 데이터 시각화
     - [데이터와 Numpy](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11.md)
     - [판다스(pandas) 모듈 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11_1.md)
