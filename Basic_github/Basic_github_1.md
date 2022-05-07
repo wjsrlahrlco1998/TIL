@@ -80,5 +80,5 @@
 
 ## 4. Git 명령어 한눈에 보기
 
-![이미지](./Day01.assets/git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%ED%95%9C%EB%88%88%EC%97%90%EB%B3%B4%EA%B8%B0.png)
+![이미지](./Basic_github_1.assets/git%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%ED%95%9C%EB%88%88%EC%97%90%EB%B3%B4%EA%B8%B0.png)
 
