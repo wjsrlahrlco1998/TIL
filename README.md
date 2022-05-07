@@ -6,7 +6,7 @@
 
 - 바로가기
   
-  - [데이터분석 기초 요약](https://github.com/wjsrlahrlco1998/TIL/tree/master/데이터분석기초)
+  - [데이터분석 기초 요약](https://github.com/wjsrlahrlco1998/TIL/tree/master/Basic_DataAnalysis)
   
   - Git과 GitHub
     - [Git의 동작원리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day01.md)
