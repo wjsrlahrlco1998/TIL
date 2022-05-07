@@ -5,11 +5,14 @@
 - 참고 : [namjunemy](https://github.com/namjunemy/TIL) 을 참고함.
 
 - 바로가기
+  
+  - [데이터분석 기초 요약](https://github.com/wjsrlahrlco1998/TIL/tree/master/데이터분석기초)
+  
   - Git과 GitHub
     - [Git의 동작원리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day01.md)
     - [Git의 기능](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day02.md)
     - [Git의 PR과 복구](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day03.md)
-    
+  
   - 데이터 분석
     - [웹 크롤링과 스크래핑과 저장](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day04.md)
     - [데이터 분석-1(re)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day05.md)
@@ -18,7 +21,7 @@
     - [데이터 분석 및 SQL,CSV 활용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day08.md)
     - [웹 컨트롤러를 이용한 동적 크롤링-1](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day09.md)
     - [웹 컨트롤러를 이용한 동적 크롤링-2](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day10.md)
-    
+  
   - 데이터 시각화
     - [데이터와 Numpy](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11.md)
     - [판다스(pandas) 모듈 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11_1.md)
@@ -30,7 +33,7 @@
     - [seaborn의 여러 그래프 형태](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day15_2.md)
     - [wordcloud를 통한 텍스트 표현](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day15_3.md)
     - [크롤링과 wordcloud 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day15_4.md)
-    
+  
   - 머신러닝
   
     - [Numpy를 이용한 행렬연산](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day16_1.md)
@@ -50,7 +53,7 @@
     - [앙상블 이론 및 여러 모델 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_1.md)
     - [군집화(비지도학습)의 이론 및 기초코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_2.md)
     - [군집의 특성을 이용한 이미지 분류](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_3.md)
-    
+  
   - 딥러닝
     - [딥러닝 이론 및 퍼셉트론 기초코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_1.md)
     - [딥러닝 다중 신경망 구현 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_2.md)
@@ -60,7 +63,7 @@
     - [합성곱 신경망(CNN)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_4.md)
     - [딥러닝 이미지 학습](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day25_1.md)
     - [딥러닝 순환신경망 - 텍스트 처리 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day25_2.md)
-    
+  
   - 비정형 텍스트 분석
   
     - [비정형 텍스트 전처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/비정형텍스트분석/text_preprocessing.md)
