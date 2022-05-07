@@ -4,15 +4,12 @@
 
 - 참고 : [namjunemy](https://github.com/namjunemy/TIL) 을 참고함.
 
-- 바로가기
+- 바로가기(하위폴더)
   
   - [데이터분석 기초 요약](https://github.com/wjsrlahrlco1998/TIL/tree/master/Basic_DataAnalysis)
   
-  - Git과 GitHub
-    - [Git의 동작원리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day01.md)
-    - [Git의 기능](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day02.md)
-    - [Git의 PR과 복구](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day03.md)
-  
+  - [Git과 GitHub](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_github)
+    
   - 데이터 분석
     - [웹 크롤링과 스크래핑과 저장](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day04.md)
     - [데이터 분석-1(re)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day05.md)
