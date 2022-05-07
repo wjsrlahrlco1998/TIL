@@ -10,15 +10,8 @@
   
   - [Git과 GitHub](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_github)
     
-  - 데이터 분석
-    - [웹 크롤링과 스크래핑과 저장](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day04.md)
-    - [데이터 분석-1(re)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day05.md)
-    - [데이터 분석-2(BeautifulSoup)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day06.md)
-    - [데이터 분석 예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day07.md)
-    - [데이터 분석 및 SQL,CSV 활용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day08.md)
-    - [웹 컨트롤러를 이용한 동적 크롤링-1](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day09.md)
-    - [웹 컨트롤러를 이용한 동적 크롤링-2](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day10.md)
-  
+  - [데이터 수집](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling)
+    
   - 데이터 시각화
     - [데이터와 Numpy](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11.md)
     - [판다스(pandas) 모듈 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day11_1.md)
