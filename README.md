@@ -16,40 +16,10 @@
     
   - [데이터 시각화](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_visualization)
     
-  - 머신러닝
+  - [머신러닝](https://github.com/wjsrlahrlco1998/TIL/blob/master/Machine_learning)
   
-    - [Numpy를 이용한 행렬연산](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day16_1.md)
-    - [사이킷런을 이용한 머신러닝 기초(지도학습)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day16_2.md)
-    - [사이킷런을 이용한 머신러닝 기초(비지도학습)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day17_1.md)
-    - [데이터의 전처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day17_2.md)
-    - [머신러닝의 개요(예시)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day17_3.md)
-    - [선형회귀 모델 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day18_1.md)
-    - [선형회귀 모델 기초 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day19_1.md)
-    - [로지스틱 회귀 모델](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day19_2.md)
-    - [분류모델 성능 평가](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day20_1.md)
-    - [NBC(나이브 베이지안 분류기)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day20_2.md)
-    - [의사결정트리 기초 예시코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day20_3.md)
-    - [의사결정트리 이론 및 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day21_1.md)
-    - [의사결정트리 교차검증](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day21_2.md)
-    - [앙상블 - 교차검증 기초 코드 예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day21_3.md)
-    - [앙상블 이론 및 여러 모델 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_1.md)
-    - [군집화(비지도학습)의 이론 및 기초코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_2.md)
-    - [군집의 특성을 이용한 이미지 분류](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day22_3.md)
+  - [딥러닝](https://github.com/wjsrlahrlco1998/TIL/blob/master/Deep_learning)
+    
+  - [비정형 텍스트 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis)
   
-  - 딥러닝
-    - [딥러닝 이론 및 퍼셉트론 기초코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_1.md)
-    - [딥러닝 다중 신경망 구현 코드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day23_2.md)
-    - [딥러닝 모델의 성능향상 방법](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_1.md)
-    - [딥러닝 회귀문제 적용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_2.md)
-    - [딥러닝 모델의 저장과 불러오기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_3.md)
-    - [합성곱 신경망(CNN)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day24_4.md)
-    - [딥러닝 이미지 학습](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day25_1.md)
-    - [딥러닝 순환신경망 - 텍스트 처리 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Day25_2.md)
-  
-  - 비정형 텍스트 분석
-  
-    - [비정형 텍스트 전처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/비정형텍스트분석/text_preprocessing.md)
-  
-    - [한국어 비정형 텍스트 전처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/비정형텍스트분석/K_text_preprocessing.md)
-  
-      
+    
