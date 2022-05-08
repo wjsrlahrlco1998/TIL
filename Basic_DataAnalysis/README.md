@@ -11,4 +11,6 @@
 - [파이썬 및 아나콘다 설치](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[Setup]Python_Anaconda.md)
 - [데이터업로드](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_Upload.md)
 - [탐색적분석 : 기술통계](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Exploratory_Analysis(descriptive_statistics).md)
+- [데이터 전처리 : 결측값 및 이상값 처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_preprocessing_1.md)
+- [데이터 전처리 : 데이터 결합](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_preprocessing_2.md)
 
