@@ -16,3 +16,4 @@
 - [데이터 시각화](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_visualization.md)
 - [탐색적 분석 : 데이터 전처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_preprocessing_3.md)
 
+- [정규분포 : 이론 및 코드예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]normal_distribution.md)
