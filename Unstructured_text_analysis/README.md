@@ -22,4 +22,6 @@
 
 - [통계적 언어 모델 이론 및 예시(영어, 한글)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/language_model_1.md)
 
+- [단어 벡터화 이론 및 예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/Word_representation_1.md)
+
   
