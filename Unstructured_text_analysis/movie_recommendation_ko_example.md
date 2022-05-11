@@ -132,3 +132,63 @@ mht_sim('올드보이')
 16     인터스텔라
 Name: name, dtype: object
 ```
+
+---
+
+## * 형태소 분석을 다르게 한 결과
+
+```python
+from sklearn.feature_extraction.text import TfidfVectorizer
+from konlpy.tag import Okt
+
+okt = Okt()
+data_l = [' '.join(okt.morphs(i)) for i in data['content']]
+
+tfidf_v = TfidfVectorizer()
+tfidf_m = tfidf_v.fit_transform(data_l)
+
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import manhattan_distances
+from sklearn.metrics import euclidean_distances
+cos=cosine_similarity(tfidf_m,tfidf_m)#숫자가 높으면 유사도는?->높다
+c1=manhattan_distances(tfidf_m,tfidf_m)#숫자가 높으면 유사도는?->낮다
+c2=euclidean_distances(tfidf_m,tfidf_m)
+
+t_idx=dict(zip(data['name'],data.index))
+
+def ck_s_t(t,cosine_sim=cos,k=0):
+    idx=t_idx[t]
+    c_sc=list(enumerate(cosine_sim[idx]))
+    if k==0:
+        c_sc=sorted(c_sc,key=lambda x:x[1],reverse=True)#내림차순 정렬
+    else:
+        c_sc=sorted(c_sc,key=lambda x:x[1])
+    m_i=c_sc[1:4]
+    m_idx=[i[0] for i in m_i]
+    return data['name'].iloc[m_idx]
+
+ck_s_t('올드보이',k=0)
+ck_s_t('올드보이',c1,k=1)
+ck_s_t('올드보이',c2,k=1) 
+```
+
+```
+5     친절한금자씨
+11    어바웃 타임
+8        아저씨
+Name: name, dtype: object
+```
+
+```
+10       장고
+1       노트북
+13    트랜스포머
+Name: name, dtype: object
+```
+
+```
+5     친절한금자씨
+11    어바웃 타임
+8        아저씨
+Name: name, dtype: object
+```
