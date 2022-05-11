@@ -18,3 +18,5 @@
 - [단어 벡터화 이론 및 예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/Word_representation_1.md)
 - [코사인 유사도를 이용한 영화추천(예시)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/cosine_similarity_ex1.md)
 - [자카드, 유클리드, 맨허튼 유사도 기초](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/Various_similarity_measurement_techniques.md)
+
+- [유사도 측정기법 활용 - 영화 3종 추천 예시(한글 데이터)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/movie_recommendation_ko_example.md)
