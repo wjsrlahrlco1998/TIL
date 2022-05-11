@@ -15,5 +15,5 @@
 - [데이터 전처리 : 데이터 결합](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_preprocessing_2.md)
 - [데이터 시각화](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_visualization.md)
 - [탐색적 분석 : 데이터 전처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Data_preprocessing_3.md)
-
 - [정규분포 : 이론 및 코드예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]normal_distribution.md)
+- [가설검정과 t-검정을 이용한 수치분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Hypothesis_testing_and_t-test.md)
