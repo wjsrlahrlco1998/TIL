@@ -20,3 +20,5 @@
 - [자카드, 유클리드, 맨허튼 유사도 기초](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/Various_similarity_measurement_techniques.md)
 
 - [유사도 측정기법 활용 - 영화 3종 추천 예시(한글 데이터)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/movie_recommendation_ko_example.md)
+
+- [딥러닝 : 신문내용으로 신문사를 분류(영어)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DI_text_classifier_newspaper_example.md)
