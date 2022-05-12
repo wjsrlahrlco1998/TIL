@@ -88,18 +88,18 @@ pylab.show()
 
 1. 10회 반복
 
-   ![image-20220510222955634]([DA]normal distribution.assets/image-20220510222955634.png)
+   ![image-20220510222955634]([DA]normal_distribution.assets/image-20220510222955634.png)
 
 2. 100회 반복
 
-   ![image-20220510223012032]([DA]normal distribution.assets/image-20220510223012032.png)
+   ![image-20220510223012032]([DA]normal_distribution.assets/image-20220510223012032.png)
 
 3. 1000회 반복
 
-   ![image-20220510223022532]([DA]normal distribution.assets/image-20220510223022532.png)
+   ![image-20220510223022532]([DA]normal_distribution.assets/image-20220510223022532.png)
 
 4. 10000회 반복
 
-   ![image-20220510223034707]([DA]normal distribution.assets/image-20220510223034707.png)
+   ![image-20220510223034707]([DA]normal_distribution.assets/image-20220510223034707.png)
 
 *중심극한정리에 의해 임의 추출 집단의 평균 값이 전체 집단의 평균에 가까워지는 것을 알 수 있다.*
