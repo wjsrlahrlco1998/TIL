@@ -40,7 +40,7 @@ plt.hist(random_sample, bins = 100)
 plt.show()
 ```
 
-![image-20220510222721378]([DA]normal distribution.assets/image-20220510222721378.png)
+![image-20220510222721378]([DA]normal_distribution.assets/image-20220510222721378.png)
 
 ### 2. Q-Q plot을 통한 확인
 
@@ -60,7 +60,7 @@ pylab.show()
   - scale : 표준편차
   - size : 데이터의 개수
 
-![image-20220510222839261]([DA]normal distribution.assets/image-20220510222839261.png)
+![image-20220510222839261]([DA]normal_distribution.assets/image-20220510222839261.png)
 
 ### 3. 중심극한정리 실험
 
