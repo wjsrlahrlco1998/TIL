@@ -18,3 +18,4 @@
 - [정규분포 : 이론 및 코드예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]normal_distribution.md)
 - [가설검정과 t-검정을 이용한 수치분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Hypothesis_testing_and_t-test.md)
 - [분산분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Distribution_analysis.md)
+- [카이제곱 검정](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]chi_square_test.md)
