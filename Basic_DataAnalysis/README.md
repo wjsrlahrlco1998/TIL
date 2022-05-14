@@ -21,3 +21,5 @@
 - [카이제곱 검정](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]chi_square_test.md)
 
 - [상관분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]correlation_analysis.md)
+
+- [회귀분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Linear_analysis.md)
