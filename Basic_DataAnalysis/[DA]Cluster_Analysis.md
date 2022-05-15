@@ -16,7 +16,7 @@ weather = pd.read_csv('weather.csv')
 weather
 ```
 
-![image-20220515195755693](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20220515195755693.png)
+![image-20220515200214688]([DA]Cluster_Analysis.assets/image-20220515200214688.png)
 
 ```python
 from sklearn.preprocessing import MinMaxScaler
@@ -30,7 +30,9 @@ X_scaled = scaler.fit_transform(X)
 X_scaled
 ```
 
-![image-20220515195806113](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20220515195806113.png)
+![image-20220515200223348]([DA]Cluster_Analysis.assets/image-20220515200223348.png)
+
+
 
 - 정규화 결과
   - 모든 값을 0과 1사이의 값으로 변환
@@ -59,7 +61,7 @@ n_bike.rename(columns = {'Distance' : 'Count'}, inplace=True)
 n_bike
 ```
 
-![image-20220515195841171](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20220515195841171.png)
+![image-20220515200242066]([DA]Cluster_Analysis.assets/image-20220515200242066.png)
 
 2. 다시 pivot table로 집계
 
@@ -69,7 +71,7 @@ n_bike
    n_bike2
    ```
 
-   ![image-20220515195902632](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20220515195902632.png)
+   ![image-20220515200251298]([DA]Cluster_Analysis.assets/image-20220515200251298.png)
 
    3일 치의 평균값을 계산해서 구별, 시간대별, 평균값 평균 대여 횟수를 요약한 테이블 생성(0~23시)
 
@@ -100,7 +102,7 @@ n_bike
    n_bike2[['Gu', '2_Cluster', '3_Cluster', '4_Cluster']]
    ```
 
-   ![image-20220515195937860](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20220515195937860.png)
+   ![image-20220515200303060]([DA]Cluster_Analysis.assets/image-20220515200303060.png)
 
    - 분석
      - 구별로 24시간의 시간대별 대여 횟수가 비슷한 패턴을 보이는 경우에 같은 군집으로 군집화하도록 하여 만들어낸 결과
