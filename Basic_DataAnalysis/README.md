@@ -22,3 +22,4 @@
 - [상관분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]correlation_analysis.md)
 - [회귀분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Linear_analysis.md)
 - [머신러닝 : 다중회귀분석(범주형데이터)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Multiple_Regression_Analysis.md)
+- [머신러닝 : 로지스틱회귀분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_DataAnalysis/[DA]Logistic_regression_Analysis.md)
