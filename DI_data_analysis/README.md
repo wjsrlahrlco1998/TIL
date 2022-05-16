@@ -11,3 +11,6 @@
 - [딥러닝 : 와인 분류](https://github.com/wjsrlahrlco1998/TIL/blob/master/DI_data_analysis/DI_wine_example.md)
 - [딥러닝 : 유방암 분류](https://github.com/wjsrlahrlco1998/TIL/blob/master/DI_data_analysis/DI_breast_cancer_example.md)
 - [딥러닝 : 선형회귀](https://github.com/wjsrlahrlco1998/TIL/blob/master/DI_data_analysis/DI_linear_data_analysis.md)
+
+- [딥러닝 : 배치정규화](https://github.com/wjsrlahrlco1998/TIL/blob/master/DI_data_analysis/DL_batch_normalization.md)
+
