@@ -22,3 +22,4 @@
 - [딥러닝 : 신문내용으로 신문사를 분류(영어)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DI_text_classifier_newspaper_example.md)
 - [딥러닝 : 리뷰의 긍정과 부정 분류(한글)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/Example_Categorization_movie_reviews_positives_negatives.md)
 - [딥러닝 : EDA - 리뷰 분류 예시(영어)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_EDA.md)
+- [딥러닝:EDA -> RNN 리뷰 분류 예시(한글)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_EDA_2.md)
