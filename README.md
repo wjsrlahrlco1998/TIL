@@ -24,3 +24,7 @@
   - [비정형 텍스트 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis)
   - [딥러닝 예시를 이용한 데이터 분석 과정](https://github.com/wjsrlahrlco1998/TIL/blob/master/DI_data_analysis)
 
+---
+
+- Pro-DS
+  - [초급 실기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner)
