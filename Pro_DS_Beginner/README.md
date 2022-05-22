@@ -15,3 +15,4 @@
 - [데이터 전처리 : 데이터 병합](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]Data_Preprocessing_3.md)
 
 - [데이터 전처리 : 정렬 및 변환](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]Data_Preprocessing_4.md)
+- [모평균 비교에 관한 가설검정 : t-test](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDs]T_test.md)
