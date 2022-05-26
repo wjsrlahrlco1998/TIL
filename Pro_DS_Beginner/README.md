@@ -17,3 +17,4 @@
 - [가설검정 : 독립성 검정(카이제곱 검정)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]Chi_test.md)
 - [상관분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]Corr.md)
 - [단순 회귀분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDs]Simple_linear_analysis.md)
+- [다중 회귀분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]Multiple_LR_analysis.md)
