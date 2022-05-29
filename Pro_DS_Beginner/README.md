@@ -19,3 +19,4 @@
 - [단순 회귀분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDs]Simple_linear_analysis.md)
 - [다중 회귀분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]Multiple_LR_analysis.md)
 - [분류 : 로지스틱 회귀분석(Logistic Regression)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]Logistic_Regression_Analysis.md)
+- [의사결정나무 모델 : 분류 및 회귀나무](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner/[ProDS]CART.md)
