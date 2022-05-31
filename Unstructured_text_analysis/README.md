@@ -24,8 +24,8 @@
 - [딥러닝 : EDA - 리뷰 분류 예시(영어)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_EDA.md)
 - [딥러닝 : EDA -> RNN 리뷰 분류 예시(한글)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_EDA_2.md)
 - [딥러닝 : RNN 이론](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_RNN_1.md)
+- [딥러닝 : LSTM 이론](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_RNN_2.md)
 - [딥러닝 : 영어 전처리 클래스 이용 - 스팸 분류](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/preprocessing_class_eng.md)
 - [딥러닝 : 한글 전처리 클래스 이용 - 리뷰 분류](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/preprocessing_class_ko.md)
 - [단어 임베딩 : Word2Vec, FastText](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_word2vec_fasttext.md)
-
 - [딥러닝 : EDA \~ 분류기 생성(한글 리뷰 분류 예제)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_game_review_classifier.md)
