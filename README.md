@@ -29,3 +29,4 @@
 
 - Pro-DS
   - [초급 실기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner)
+  - [중급 실기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class)
