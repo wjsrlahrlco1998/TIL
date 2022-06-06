@@ -53,3 +53,4 @@
 ### 5. 언어모델 심화개념
 
 - [딥러닝 : 시퀀스-투-시퀀스(Sequence-to-Sequence, seq2seq)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_Seq2Seq.md)
+- [딥러닝 : 자음 모음 단위 토큰화와 FastText](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/DL_FastText_jamo.md)
