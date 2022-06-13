@@ -11,3 +11,4 @@
 - [모평균 비교에 관한 가설검정 : Two way ANOVA](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Two_way_ANOVA.md)
 - [시계열 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Time_series_analysis.md)
 - [계층적 군집분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Hierarchiical_clustering_analysis.md)
+- [비계층적 군집분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Kmeans_Clustering.md)
