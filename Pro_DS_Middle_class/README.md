@@ -12,3 +12,4 @@
 - [시계열 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Time_series_analysis.md)
 - [계층적 군집분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Hierarchiical_clustering_analysis.md)
 - [비계층적 군집분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Kmeans_Clustering.md)
+- [분류: 나이브 베이즈](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Naive_Bayes.md)
