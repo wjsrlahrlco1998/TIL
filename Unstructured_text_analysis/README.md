@@ -58,3 +58,5 @@
 - [한국어 키버트(Korean KeyBERT) 키워드 추출](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/Korean_KeyBERT.md)
 - [문장 임베딩 기반 텍스트 요약](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/TextRank_Based_Doc_Summary.md)
 - [KoGPT2를 이용한 한국어 문장 생성](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/KoGPT2.md)
+- [KoGPT3의 다양한 기능 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/KakaoBrainGPT3.md)
+
