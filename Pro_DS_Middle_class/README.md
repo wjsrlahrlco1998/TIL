@@ -13,7 +13,6 @@
 - [계층적 군집분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Hierarchiical_clustering_analysis.md)
 - [비계층적 군집분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Kmeans_Clustering.md)
 - [분류: 나이브 베이즈](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Naive_Bayes.md)
-
 - [KNN](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]KNN.md)
-
 - [추천: 연관성 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]Association_rule.md)
+- [주성분 분석 : PCA](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class/[ProDS]PCA.md)
