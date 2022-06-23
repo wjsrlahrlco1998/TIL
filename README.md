@@ -29,3 +29,9 @@
 - Pro-DS
   - [초급 실기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Beginner)
   - [중급 실기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Pro_DS_Middle_class)
+
+---
+
+- 알고리즘
+  - [기초 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm)
+
