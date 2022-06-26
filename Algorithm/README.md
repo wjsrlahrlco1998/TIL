@@ -13,3 +13,6 @@
 
 - [트리 자료구조](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Tree.md)
 - [바이너리 인덱스 트리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Binary_index_tree.md)
+
+- [선택 정렬과 삽입 정렬](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/select_sort_insert_sort.md)
+
