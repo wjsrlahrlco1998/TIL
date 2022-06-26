@@ -12,3 +12,4 @@
 - [우선순위 큐](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Priority_Queue.md)
 
 - [트리 자료구조](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Tree.md)
+- [바이너리 인덱스 트리](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Binary_index_tree.md)
