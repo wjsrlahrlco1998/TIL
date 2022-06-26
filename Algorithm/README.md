@@ -10,3 +10,5 @@
 
 - [스택과 큐](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/stack_queue.md)
 - [우선순위 큐](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Priority_Queue.md)
+
+- [트리 자료구조](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Tree.md)
