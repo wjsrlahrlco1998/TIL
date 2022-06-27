@@ -16,3 +16,6 @@
 - [웹 컨트롤러를 이용한 동적 크롤링 - 1](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling/Dynamic_crawling_1.md)
 - [웹 컨트롤러를 이용한 동적 크롤링 - 2](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling/Dynamic_crawling_2.md)
 
+---
+
+- [Request 심화](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling/request_1.md)
