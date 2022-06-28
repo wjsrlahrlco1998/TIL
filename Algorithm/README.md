@@ -15,4 +15,5 @@
 - [선택 정렬과 삽입 정렬](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/select_sort_insert_sort.md)
 - [퀵 정렬과 계수 정렬](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/quick_sort_counting_sort.md)
 - [정렬 알고리즘 비교 및 기초 문제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/sort_algorithm_compare.md)
+- [그래프 기본 : DFS와 BFS](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DFS_BFS_basic.md)
 
