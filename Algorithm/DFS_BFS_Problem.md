@@ -8,7 +8,7 @@
 
 ### 1) 문제 : 음료수 얼려 먹기: 문제 설명
 
-![image-20220628222003455](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20220628222003455.png)
+![image-20220628224604478](DFS_BFS_Problem.assets/image-20220628224604478.png)
 
 ![image-20220628222147187](DFS_BFS_Problem.assets/image-20220628222147187.png)
 
