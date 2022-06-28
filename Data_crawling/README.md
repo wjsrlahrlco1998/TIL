@@ -19,4 +19,5 @@
 ---
 
 - [Request 심화](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling/request_1.md)
-- [Request 심화 실습](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling/request_2.md)
+- [Request 심화 실습 - 1](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling/request_2.md)
+- [Request 심화 실습 - 2(와디즈)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling/request_3.md)
