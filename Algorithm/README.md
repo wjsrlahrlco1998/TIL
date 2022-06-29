@@ -18,3 +18,4 @@
 - [그래프 기본 : DFS와 BFS](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DFS_BFS_basic.md)
 - [DFS와 BFS 기초 문제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DFS_BFS_Problem.md)
 
+- [다익스트라](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Dijkstra.md)
