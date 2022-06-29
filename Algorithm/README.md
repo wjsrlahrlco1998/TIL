@@ -17,5 +17,5 @@
 - [정렬 알고리즘 비교 및 기초 문제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/sort_algorithm_compare.md)
 - [그래프 기본 : DFS와 BFS](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DFS_BFS_basic.md)
 - [DFS와 BFS 기초 문제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DFS_BFS_Problem.md)
-
 - [다익스트라](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Dijkstra.md)
+- [힙(Heap)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/heap.md)
