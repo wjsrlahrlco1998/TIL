@@ -8,4 +8,4 @@
 
 ---
 
-- [이상탐지란 무엇인가?](https://github.com/wjsrlahrlco1998/TIL/blob/master/Anomaly_Detection/What_is_Anomaly_Detection)
+- [이상탐지란 무엇인가?](https://github.com/wjsrlahrlco1998/TIL/blob/master/Anomaly_Detection/What_is_Anomaly_Detection.md)
