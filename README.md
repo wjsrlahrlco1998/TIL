@@ -36,3 +36,8 @@
 - 알고리즘
   - [기초 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm)
 
+---
+
+- 데이터베이스
+  - [데이터베이스 기초](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DataBase)
+
