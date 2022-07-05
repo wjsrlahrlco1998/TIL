@@ -8,5 +8,6 @@
 
 ---
 
-- [기본 쿼리문](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DataBase)
+- [기본 쿼리문 1](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DataBase/DB_basic_1.md)
+- [기본 쿼리문 2](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/DataBase/DB_basic_2.md)
 
