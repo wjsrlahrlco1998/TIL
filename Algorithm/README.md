@@ -22,3 +22,4 @@
 - [플로이드 워셜 알고리즘 : 최단경로](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Floyd_Warshall.md)
 - [벨만 포드 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Bellman_Ford.md)
 - [서로소 집합 판단 : 유니온 파인드 자료구조](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Disjoint_Sets.md)
+- [크루스칼 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Kruskal.md)
