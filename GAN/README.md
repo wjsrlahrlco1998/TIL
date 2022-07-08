@@ -9,3 +9,5 @@
 ### 바로가기
 
 - [GAN 이론](https://github.com/wjsrlahrlco1998/TIL/blob/master/GAN/GAN.md)
+
+- [GAN 실습](https://github.com/wjsrlahrlco1998/TIL/blob/master/GAN/GAN_code.md)
