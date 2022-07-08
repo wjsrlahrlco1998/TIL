@@ -43,5 +43,6 @@
 
 ---
 
-- Computer VISON
+- Computer Vision
   - [OpenCV-python](https://github.com/wjsrlahrlco1998/TIL/blob/master/OpenCV)
+  - [GAN 이론과 실습]()
