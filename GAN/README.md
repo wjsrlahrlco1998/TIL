@@ -9,5 +9,5 @@
 ### 바로가기
 
 - [GAN 이론](https://github.com/wjsrlahrlco1998/TIL/blob/master/GAN/GAN.md)
-
 - [GAN 실습](https://github.com/wjsrlahrlco1998/TIL/blob/master/GAN/GAN_code.md)
+- [CartoonGAN을 이용한 배우 이미지 변환](https://github.com/wjsrlahrlco1998/TIL/blob/master/GAN/CartoonGAN.md)
