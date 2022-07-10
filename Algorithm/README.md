@@ -23,3 +23,4 @@
 - [벨만 포드 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Bellman_Ford.md)
 - [서로소 집합 판단 : 유니온 파인드 자료구조](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Disjoint_Sets.md)
 - [크루스칼 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Kruskal.md)
+- [최소 공통 조상: 트리에서의 최소 공통 조상을 찾는 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Algorithm/Lowest_Common_Ancestor.md)
