@@ -10,3 +10,4 @@
 - [OpenCV를 이용한 이미지 유사도 비교(피처매칭)](https://github.com/wjsrlahrlco1998/TIL/blob/master/OpenCV/OpenCV_feature_matching.md)
 - [OpenCV 이미지 연산](https://github.com/wjsrlahrlco1998/TIL/blob/master/OpenCV/OpenCV_img_cal.md)
 - [OpenCV 이미지 변형](https://github.com/wjsrlahrlco1998/TIL/blob/master/OpenCV/OpenCV_img_transform.md)
+- [OpenCV 임계점 처리](https://github.com/wjsrlahrlco1998/TIL/blob/master/OpenCV/OpenCV_threshold.md)
