@@ -64,7 +64,7 @@ plt.imshow(image)
 plt.show()
 ```
 
-
+![image-20220716193048047](OpenCV_figure_drawing.assets/image-20220716193048047.png)
 
 ### 2) 사각형 그리기
 
@@ -75,4 +75,35 @@ image = cv2.rectangle(image, (20, 20), (255, 255), (255, 0, 0), -1)
 plt.imshow(image)
 plt.show()
 ```
+
+![image-20220716193112935](OpenCV_figure_drawing.assets/image-20220716193112935.png)
+
+
+
+### 3) 다각형 그리기
+
+```python
+image = np.full((512, 512, 3), 255, np.uint8)
+points = np.array([[5, 5], [128, 128], [540, 444], [350, 100]])
+image = cv2.polylines(image, [points], True, (0, 0, 255), 4)
+
+plt.imshow(image)
+plt.show()
+```
+
+![image-20220716193148586](OpenCV_figure_drawing.assets/image-20220716193148586.png)
+
+
+
+### 4) 텍스트 그리기
+
+```python
+image = np.full((512, 512, 3), 255, np.uint8)
+image = cv2.putText(image, 'Hello World', (0, 200), cv2.FONT_ITALIC, 2, (255, 0, 0))
+
+plt.imshow(image)
+plt.show()
+```
+
+![image-20220716193211432](OpenCV_figure_drawing.assets/image-20220716193211432.png)
 
