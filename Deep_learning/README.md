@@ -16,6 +16,7 @@
 - [인공 신경망(ANN) 이론](https://github.com/wjsrlahrlco1998/TIL/blob/master/Deep_learning/deep_learning_ANN.md)
 - [심층 신경망(DNN) 이론](https://github.com/wjsrlahrlco1998/TIL/blob/master/Deep_learning/deep_learning_DNN.md)
 - [합성곱 신경망(CNN)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Deep_learning/deep_learning_CNN.md)
+- [순환 신경망(RNN) 이론](https://github.com/wjsrlahrlco1998/TIL/blob/master/Deep_learning/deep_learning_RNN.md)
 - [딥러닝 이미지 학습](https://github.com/wjsrlahrlco1998/TIL/blob/master/Deep_learning/deep_learning_image.md)
 - [딥러닝 순환신경망 - 텍스트 처리 예제](https://github.com/wjsrlahrlco1998/TIL/blob/master/Deep_learning/deep_learning_text.md)
 
