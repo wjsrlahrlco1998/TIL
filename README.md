@@ -24,6 +24,8 @@
   - [딥러닝 : EDA 예시](https://github.com/wjsrlahrlco1998/TIL/blob/master/DI_data_analysis)
   - [추천 시스템 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Recommendation_system)
   - [이상탐지 알고리즘](https://github.com/wjsrlahrlco1998/TIL/blob/master/Anomaly_Detection)
+- 자연어 처리
+  - [임베딩](https://github.com/wjsrlahrlco1998/TIL/blob/master/NLP)
 
 ---
 
