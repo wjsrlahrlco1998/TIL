@@ -60,3 +60,4 @@
 - [KoGPT2를 이용한 한국어 문장 생성](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/KoGPT2.md)
 - [KoGPT3의 다양한 기능 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/KakaoBrainGPT3.md)
 
+- [kcbert QA 와 파인튜닝](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/kcbert_QA_fine_tunning.md)
