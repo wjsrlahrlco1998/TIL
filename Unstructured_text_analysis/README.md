@@ -61,3 +61,4 @@
 - [KoGPT3의 다양한 기능 이용](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/KakaoBrainGPT3.md)
 - [kcbert QA 와 파인튜닝](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/kcbert_QA_fine_tunning.md)
 - [문장 임베딩 기반 텍스트 랭크(요약)](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/sentence_embedding_text_rank.md)
+- [단어 수준 기계 번역기](https://github.com/wjsrlahrlco1998/TIL/blob/master/Unstructured_text_analysis/Character_Level_Neural_Machine_Translation.md)
