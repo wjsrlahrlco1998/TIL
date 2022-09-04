@@ -30,9 +30,7 @@ print(R.shape)
 R # R은 4X5 행렬이다.
 ```
 
-![image-20220904202428890](D:\깃헙\TIL\Recommendation_system\MF_theory.assets\image-20220904202428890.png)
-
-
+![image-20220904203050679](MF_theory.assets/image-20220904203050679.png)
 
 - Matrix Factorization : 행렬 R을 행렬 P, Q로 분해
 
@@ -59,7 +57,7 @@ print(P,'\n')
 print(Q)
 ```
 
-![image-20220904202535564](D:\깃헙\TIL\Recommendation_system\MF_theory.assets\image-20220904202535564.png)
+![image-20220904203110779](MF_theory.assets/image-20220904203110779.png)
 
 - 비용계산 함수를 생성하고 분해된 행렬 P와 Q.T를 내적하여 예측 행렬을 생산한다.
 - 실제 행렬에서 null이 아닌 위치 값만 예측 행렬의 값과 비교하여 RMSE(오차) 값을 계산하고 반환한다.
@@ -94,13 +92,13 @@ non_zeros = [ (i, j, R[i,j]) for i in range(num_users) for j in range(num_items)
 non_zeros
 ```
 
-![image-20220904202654817](D:\깃헙\TIL\Recommendation_system\MF_theory.assets\image-20220904202654817.png)
+![image-20220904203123319](MF_theory.assets/image-20220904203123319.png)
 
 ```python
 R
 ```
 
-![image-20220904202708067](D:\깃헙\TIL\Recommendation_system\MF_theory.assets\image-20220904202708067.png)
+![image-20220904203131112](MF_theory.assets/image-20220904203131112.png)
 
 ```python
 steps=10000
@@ -123,7 +121,7 @@ for step in range(steps):  # 10000회 업데이트
         print("### iteration step : ", step," rmse : ", rmse)
 ```
 
-![image-20220904202734280](D:\깃헙\TIL\Recommendation_system\MF_theory.assets\image-20220904202734280.png)
+![image-20220904203147906](MF_theory.assets/image-20220904203147906.png)
 
 - 실제 행렬과 예측 행렬 간 오차를 최소화하는 방향(rmse 감소)으로 경사하강법 진행
 -> P와 Q 행렬이 업데이트 된다.
@@ -133,13 +131,13 @@ pred_matrix = np.dot(P, Q.T)
 print('예측 행렬:\n', np.round(pred_matrix, 3))
 ```
 
-![image-20220904202755019](D:\깃헙\TIL\Recommendation_system\MF_theory.assets\image-20220904202755019.png)
+![image-20220904203158266](MF_theory.assets/image-20220904203158266.png)
 
 ```python
 # 원본 행렬 R
 R
 ```
 
-![image-20220904202806698](D:\깃헙\TIL\Recommendation_system\MF_theory.assets\image-20220904202806698.png)
+![image-20220904203205642](MF_theory.assets/image-20220904203205642.png)
 
 - 예측 행렬과 실제 행렬의 값이 최대한 비슷하게 만들어 진 것을 확인할 수 있다.
