@@ -61,3 +61,7 @@
 - 환경구축
   - [머신러닝 환경구축](https://github.com/wjsrlahrlco1998/TIL/blob/master/ML_Setup)
 
+---
+
+- [R을 이용한 통계 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/R)
+
