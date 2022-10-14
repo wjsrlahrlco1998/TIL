@@ -50,6 +50,7 @@
   - [GAN 이론과 실습](https://github.com/wjsrlahrlco1998/TIL/blob/master/GAN)
   - [AutoEncoder(AE)](https://github.com/wjsrlahrlco1998/TIL/blob/master/AutoEncoder)
   - [CNN(Convolution Neural Network)](https://github.com/wjsrlahrlco1998/TIL/blob/master/CNN)
+  - [Stable Diffusion 분석과 구현](https://github.com/wjsrlahrlco1998/TIL/blob/master/Stable_Diffusion)
 
 ---
 
