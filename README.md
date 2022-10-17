@@ -64,5 +64,11 @@
 
 ---
 
-- [R을 이용한 통계 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/R)
+- R
+  - [R을 이용한 통계 분석](https://github.com/wjsrlahrlco1998/TIL/blob/master/R)
+
+---
+
+- 논문 분석
+  - [Transformer - Attention Is All You Need](https://github.com/wjsrlahrlco1998/TIL/blob/master/Transformer)
 
