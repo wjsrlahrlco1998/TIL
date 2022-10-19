@@ -2,7 +2,7 @@
 
 ## 분석
 
-- [GPT란 무엇인가?](https://github.com/wjsrlahrlco1998/TIL/blob/master/Transformer/GPT_Analysis.md)
+- [GPT란 무엇인가?](https://github.com/wjsrlahrlco1998/TIL/blob/master/GPT/GPT_Analysis.md)
 
 ---
 
