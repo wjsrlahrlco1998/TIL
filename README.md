@@ -73,4 +73,6 @@
   - [Transformer - Attention Is All You Need](https://github.com/wjsrlahrlco1998/TIL/blob/master/Transformer)
   - [BERT -  Bidirectional Encoder Representation from Transformers](https://github.com/wjsrlahrlco1998/TIL/blob/master/BERT)
   - [GPT - Improving Language Understanding by Generative Pre-Training](https://github.com/wjsrlahrlco1998/TIL/blob/master/GPT)
+- 세미나
+  - [AutoEncoder : Outlier Detection](https://github.com/wjsrlahrlco1998/TIL/blob/master/AutoEncoder_Seminar)
 
