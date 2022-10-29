@@ -5,11 +5,15 @@
 
 ---
 
+## 1. Git
+
 - Git 사용법
   - [Git과 GitHub](https://github.com/wjsrlahrlco1998/TIL/blob/master/Basic_github)
 
 
 ---
+
+## 2. Machine/Deep Learning
 
 - 데이터 수집
   - [크롤링](https://github.com/wjsrlahrlco1998/TIL/blob/master/Data_crawling)
@@ -76,3 +80,8 @@
 - 세미나
   - [AutoEncoder : Outlier Detection](https://github.com/wjsrlahrlco1998/TIL/blob/master/AutoEncoder_Seminar)
 
+---
+
+## 3. GUI
+
+- [PyQt5](https://github.com/wjsrlahrlco1998/TIL/blob/master/PyQt5)
