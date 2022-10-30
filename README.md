@@ -85,3 +85,14 @@
 ## 3. GUI
 
 - [PyQt5](https://github.com/wjsrlahrlco1998/TIL/blob/master/PyQt5)
+
+---
+
+## 4. 통신
+
+> Python 통신에 관한 자료 정리
+
+- Socket
+- Serial
+- [Nodejs - python](https://github.com/wjsrlahrlco1998/TIL/blob/master/Integration_with_Nodejs)
+
