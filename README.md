@@ -55,6 +55,7 @@
   - [AutoEncoder(AE)](https://github.com/wjsrlahrlco1998/TIL/blob/master/AutoEncoder)
   - [CNN(Convolution Neural Network)](https://github.com/wjsrlahrlco1998/TIL/blob/master/CNN)
   - [Stable Diffusion 분석과 구현](https://github.com/wjsrlahrlco1998/TIL/blob/master/Stable_Diffusion)
+  - [Object Detection](https://github.com/wjsrlahrlco1998/TIL/blob/master/Object_Detection)
 
 ---
 
@@ -100,4 +101,3 @@
 - Socket
 - Serial
 - [Nodejs - python](https://github.com/wjsrlahrlco1998/TIL/blob/master/Integration_with_Nodejs)
-
