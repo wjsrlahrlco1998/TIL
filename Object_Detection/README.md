@@ -5,3 +5,6 @@
 ---
 
 - [Object Detection이란?](https://github.com/wjsrlahrlco1998/TIL/blob/master/Object_Detection/Object_Detection.md)
+
+- [mean Average Precision](https://github.com/wjsrlahrlco1998/TIL/blob/master/Object_Detection/mean_Average_Precision.md)
+- [Fast R-CNN](https://github.com/wjsrlahrlco1998/TIL/blob/master/Object_Detection/Fast_R_CNN.md)
