@@ -8,3 +8,5 @@
 
 - [mean Average Precision](https://github.com/wjsrlahrlco1998/TIL/blob/master/Object_Detection/mean_Average_Precision.md)
 - [Fast R-CNN](https://github.com/wjsrlahrlco1998/TIL/blob/master/Object_Detection/Fast_R_CNN.md)
+
+- [Image Pyramids](https://github.com/wjsrlahrlco1998/TIL/blob/master/Object_Detection/Image_pyramid.md)
